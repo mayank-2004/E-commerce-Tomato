@@ -11,7 +11,7 @@ const Add = ({url}) => {
     "name" : "",
     "description" : "",
     "price" : "",
-    "category" : "salad",
+    "category" : "blazer",
   });
 
   const onChangehandle = (event) => {
